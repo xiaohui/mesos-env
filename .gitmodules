@@ -1,0 +1,18 @@
+[submodule "zookeeper"]
+	path = zookeeper
+	url = https://github.com/mesoscloud/zookeeper.git
+[submodule "mesos-master"]
+	path = mesos-master
+	url = https://github.com/mesoscloud/mesos-master.git
+[submodule "mesos-slave"]
+	path = mesos-slave
+	url = https://github.com/mesoscloud/mesos-slave.git
+[submodule "marathon"]
+	path = marathon
+	url = https://github.com/mesoscloud/marathon.git
+[submodule "chronos"]
+	path = chronos
+	url = https://github.com/mesoscloud/chronos.git
+[submodule "haproxy"]
+	path = haproxy
+	url = https://github.com/mesoscloud/haproxy.git
